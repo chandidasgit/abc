@@ -3,4 +3,8 @@ fdfsf
 :
 sfdsfs
 sdfsd
+<<<<<<< Updated upstream
 vvvvvvvvvvvvvvvvvvvvv
+=======
+dddddddddddddddd
+>>>>>>> Stashed changes
